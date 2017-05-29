@@ -1,2 +1,5 @@
 # machine-learning
-This repository contains all the input data files, R files, and python code files used for Machine Learning tutorials on my website
+The data-preprocessing branch under machine-learning repository contains all the files I used for doing data-preprocessing operations.
+
+Kindly let me know any issues at milindjagre@gmail.com.
+Check out my website at www.milindjagre.com
